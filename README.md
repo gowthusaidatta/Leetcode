@@ -6,6 +6,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Linked List
 |  |
 | ------- |
