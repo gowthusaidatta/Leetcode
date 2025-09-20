@@ -1,0 +1,13 @@
+class Solution {
+    public int removeElement(int[] nums, int val) {
+       // String[] new1=new String[nums.length];
+       int id=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=val){
+                nums[id]=nums[i];
+                id++;
+            }
+        }
+        return id;
+    }
+}
