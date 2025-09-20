@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
