@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
