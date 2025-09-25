@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -138,5 +139,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
