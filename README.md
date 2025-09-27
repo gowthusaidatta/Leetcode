@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -57,6 +58,7 @@
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -141,4 +143,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
