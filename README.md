@@ -59,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0319-bulb-switcher](https://github.com/gowthusaidatta/Leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
@@ -125,6 +126,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/gowthusaidatta/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
