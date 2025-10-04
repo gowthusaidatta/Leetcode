@@ -45,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
+| [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
