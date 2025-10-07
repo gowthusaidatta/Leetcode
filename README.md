@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -95,6 +96,7 @@
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,11 +107,13 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
+| [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
@@ -164,6 +168,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Geometry
 |  |
 | ------- |
