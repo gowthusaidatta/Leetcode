@@ -168,6 +168,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0278-first-bad-version](https://github.com/gowthusaidatta/Leetcode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Geometry
 |  |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gowthusaidatta/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
