@@ -19,6 +19,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -122,6 +124,7 @@
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
+| [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Matrix
 |  |
