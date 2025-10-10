@@ -22,6 +22,7 @@
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gowthusaidatta/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gowthusaidatta/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
 |  |
 | ------- |
