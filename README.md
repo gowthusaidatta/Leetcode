@@ -13,6 +13,7 @@
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -60,6 +62,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -112,12 +115,14 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
@@ -196,6 +201,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
