@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -187,6 +188,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Depth-First Search
