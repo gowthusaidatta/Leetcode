@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -113,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gowthusaidatta/Leetcode/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
