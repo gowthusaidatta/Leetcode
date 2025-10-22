@@ -199,6 +199,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/gowthusaidatta/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Depth-First Search
 |  |
 | ------- |
