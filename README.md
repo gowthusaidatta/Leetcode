@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/0190-reverse-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
