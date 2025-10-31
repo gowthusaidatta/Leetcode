@@ -6,6 +6,7 @@ class Solution {
             result = (result << 1) | bit;
             n >>>= 1;
         }
+        
         return result;  
     }
 }
