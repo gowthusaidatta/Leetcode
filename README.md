@@ -21,6 +21,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gowthusaidatta/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3639-zero-array-transformation-i) |
