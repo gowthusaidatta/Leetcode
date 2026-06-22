@@ -173,6 +173,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,4 +233,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
