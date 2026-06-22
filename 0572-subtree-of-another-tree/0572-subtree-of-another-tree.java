@@ -16,10 +16,11 @@
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         if(root==null)return false;
-        if(check(root,subRoot)){
-            return true;
+        if(root.val==subRoot.val){
+            boolean ans= check(root,subRoot);
+            if(ans)return true;
         }
-    
+       
         return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
     public boolean check(TreeNode root,TreeNode subRoot){
