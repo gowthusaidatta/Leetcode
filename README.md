@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthusaidatta/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -91,6 +92,7 @@
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0319-bulb-switcher](https://github.com/gowthusaidatta/Leetcode/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
