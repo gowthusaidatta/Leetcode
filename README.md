@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
@@ -115,6 +116,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
