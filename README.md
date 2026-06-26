@@ -22,6 +22,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gowthusaidatta/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -142,6 +143,7 @@
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Simulation
 |  |
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
