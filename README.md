@@ -23,6 +23,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthusaidatta/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -77,6 +78,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/gowthusaidatta/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthusaidatta/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
