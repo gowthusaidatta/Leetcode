@@ -24,6 +24,7 @@
 | [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthusaidatta/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -44,6 +45,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -202,6 +204,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
