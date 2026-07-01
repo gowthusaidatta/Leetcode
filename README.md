@@ -31,6 +31,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gowthusaidatta/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gowthusaidatta/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -174,6 +176,7 @@
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
