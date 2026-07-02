@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthusaidatta/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
@@ -104,6 +105,7 @@
 | [0002-add-two-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/gowthusaidatta/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -140,6 +142,7 @@
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
