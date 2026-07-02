@@ -53,6 +53,7 @@
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -91,6 +92,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -100,6 +102,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/gowthusaidatta/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -120,6 +123,7 @@
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gowthusaidatta/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gowthusaidatta/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
 |  |
