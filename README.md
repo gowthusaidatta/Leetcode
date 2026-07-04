@@ -15,6 +15,7 @@
 | [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -43,6 +44,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gowthusaidatta/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gowthusaidatta/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthusaidatta/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -133,6 +135,7 @@
 | [0002-add-two-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 ## Counting Sort
 |  |
 | ------- |
@@ -295,4 +299,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/gowthusaidatta/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
