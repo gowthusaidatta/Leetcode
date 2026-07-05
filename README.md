@@ -16,6 +16,7 @@
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/gowthusaidatta/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
@@ -245,6 +246,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0278-first-bad-version](https://github.com/gowthusaidatta/Leetcode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/gowthusaidatta/Leetcode/tree/master/0704-binary-search) |
 ## Geometry
 |  |
 | ------- |
