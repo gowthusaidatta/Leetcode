@@ -132,6 +132,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gowthusaidatta/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
 | ------- |
