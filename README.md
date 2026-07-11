@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/gowthusaidatta/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/gowthusaidatta/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/gowthusaidatta/Leetcode/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
