@@ -224,6 +224,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/1291-sequential-digits) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Brainteaser
 |  |
