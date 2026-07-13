@@ -241,6 +241,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/gowthusaidatta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -255,6 +256,7 @@
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gowthusaidatta/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/gowthusaidatta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0222-count-complete-tree-nodes](https://github.com/gowthusaidatta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/gowthusaidatta/Leetcode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/gowthusaidatta/Leetcode/tree/master/0704-binary-search) |
@@ -275,6 +278,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/gowthusaidatta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
