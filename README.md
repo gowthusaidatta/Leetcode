@@ -36,6 +36,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2643-row-with-maximum-ones](https://github.com/gowthusaidatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Brainteaser
 |  |
