@@ -33,6 +33,7 @@
 | [1732-find-the-highest-altitude](https://github.com/gowthusaidatta/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthusaidatta/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthusaidatta/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2643-row-with-maximum-ones](https://github.com/gowthusaidatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -137,6 +138,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/gowthusaidatta/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1492-the-kth-factor-of-n](https://github.com/gowthusaidatta/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthusaidatta/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gowthusaidatta/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/gowthusaidatta/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gowthusaidatta/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthusaidatta/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
