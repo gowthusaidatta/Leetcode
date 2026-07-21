@@ -19,6 +19,7 @@
 | [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gowthusaidatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gowthusaidatta/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0682-baseball-game) |
@@ -56,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/gowthusaidatta/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/gowthusaidatta/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/gowthusaidatta/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gowthusaidatta/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
@@ -206,6 +208,7 @@
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/gowthusaidatta/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gowthusaidatta/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/gowthusaidatta/Leetcode/tree/master/1288-remove-covered-intervals) |
