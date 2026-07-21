@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/gowthusaidatta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gowthusaidatta/Leetcode/tree/master/0031-next-permutation) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/gowthusaidatta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gowthusaidatta/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
