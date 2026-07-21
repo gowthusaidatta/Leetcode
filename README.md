@@ -28,6 +28,7 @@
 | [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1288-remove-covered-intervals](https://github.com/gowthusaidatta/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/gowthusaidatta/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -214,6 +215,7 @@
 | [0217-contains-duplicate](https://github.com/gowthusaidatta/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/gowthusaidatta/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -321,15 +323,18 @@
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/gowthusaidatta/Leetcode/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gowthusaidatta/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -352,6 +357,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Number Theory
 |  |
@@ -368,4 +374,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gowthusaidatta/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
