@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gowthusaidatta/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/gowthusaidatta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/gowthusaidatta/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gowthusaidatta/Leetcode/tree/master/0049-group-anagrams) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/gowthusaidatta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gowthusaidatta/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
@@ -236,6 +238,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gowthusaidatta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/gowthusaidatta/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
