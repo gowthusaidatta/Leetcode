@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/gowthusaidatta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gowthusaidatta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gowthusaidatta/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/gowthusaidatta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gowthusaidatta/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/gowthusaidatta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gowthusaidatta/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/gowthusaidatta/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/gowthusaidatta/Leetcode/tree/master/0217-contains-duplicate) |
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gowthusaidatta/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
