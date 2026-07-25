@@ -158,6 +158,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/gowthusaidatta/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3536-maximum-product-of-two-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gowthusaidatta/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gowthusaidatta/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -223,6 +224,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/gowthusaidatta/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
