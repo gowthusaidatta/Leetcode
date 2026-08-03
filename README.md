@@ -30,6 +30,7 @@
 | [0705-design-hashset](https://github.com/gowthusaidatta/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gowthusaidatta/Leetcode/tree/master/0706-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/gowthusaidatta/Leetcode/tree/master/0890-lemonade-change) |
 | [0912-sort-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/0912-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -152,6 +153,7 @@
 | [0412-fizz-buzz](https://github.com/gowthusaidatta/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/gowthusaidatta/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gowthusaidatta/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -207,6 +209,7 @@
 | [0032-longest-valid-parentheses](https://github.com/gowthusaidatta/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/gowthusaidatta/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
 ## Greedy
 |  |
@@ -271,6 +274,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/gowthusaidatta/Leetcode/tree/master/1086-divisor-game) |
 ## Tree
 |  |
