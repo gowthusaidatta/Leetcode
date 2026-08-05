@@ -54,6 +54,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/gowthusaidatta/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3639-zero-array-transformation-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3731-find-missing-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gowthusaidatta/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -85,6 +86,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3731-find-missing-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -236,6 +238,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
