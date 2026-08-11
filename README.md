@@ -49,6 +49,7 @@
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2643-row-with-maximum-ones](https://github.com/gowthusaidatta/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -82,6 +83,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gowthusaidatta/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -240,6 +242,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gowthusaidatta/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/gowthusaidatta/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/gowthusaidatta/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
