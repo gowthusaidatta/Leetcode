@@ -87,6 +87,7 @@
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/gowthusaidatta/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/gowthusaidatta/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/gowthusaidatta/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gowthusaidatta/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
@@ -101,6 +102,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gowthusaidatta/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/gowthusaidatta/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/gowthusaidatta/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/gowthusaidatta/Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gowthusaidatta/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
