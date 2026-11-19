@@ -353,6 +353,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0386-lexicographical-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/gowthusaidatta/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/gowthusaidatta/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gowthusaidatta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/gowthusaidatta/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
