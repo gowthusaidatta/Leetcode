@@ -134,6 +134,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gowthusaidatta/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gowthusaidatta/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-number-of-wonderful-substrings](https://github.com/gowthusaidatta/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gowthusaidatta/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -265,6 +266,7 @@
 | [0682-baseball-game](https://github.com/gowthusaidatta/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/gowthusaidatta/Leetcode/tree/master/1642-water-bottles) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/gowthusaidatta/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gowthusaidatta/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2483-task-scheduler-ii](https://github.com/gowthusaidatta/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/gowthusaidatta/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3838-weighted-word-mapping](https://github.com/gowthusaidatta/Leetcode/tree/master/3838-weighted-word-mapping) |
